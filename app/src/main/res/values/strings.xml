@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Api Cars</string>
+    <string name="Lot">#Lot</string>
+    <string name="ScrollDownToUpdate">Scroll Down To Update</string>
+    <string name="Bids">Bids</string>
+    <string name="TimeLeft">Time Left</string>
+    <string name="Filter">Filter</string>
+    <string name="Sort">Sort</string>
+    <string name="GridView">Grid View</string>
+    <string name="ListView">List View</string>
+    <string name="SortByDate">Sort By Date</string>
+    <string name="SortByPrice">Sort By Price</string>
+    <string name="SortByYear">Sort By Year</string>
+    <string name="FilterByModel">Filter By Model</string>
+    <string name="Choose">Choose</string>
+    <string name="ShowAll">Show All</string>
+    <string name="Loading....">Loading....</string>
+    <string name="FromHighToLow">From High To Low</string>
+    <string name="FromLowToHigh">From Low To High</string>
+    <string name="Descending">Descending</string>
+    <string name="Ascending">Ascending</string>
+    <string name="FromOldestToNewest">From Oldest To Newest</string>
+    <string name="FromNewestToOldest">From Newest To Oldest</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

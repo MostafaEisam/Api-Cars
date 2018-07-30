@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Api Cars</string>
+    <string name="Lot">#العدد</string>
+    <string name="ScrollDownToUpdate">أسحب لأسفل للتحديث</string>
+    <string name="Bids">المزايدات</string>
+    <string name="TimeLeft">الوقت المتبقي</string>
+    <string name="Filter">خيارات البحث</string>
+    <string name="Sort">رتب</string>
+    <string name="GridView">عرضى</string>
+    <string name="ListView">طولى</string>
+    <string name="SortByDate">حسب الوقت</string>
+    <string name="SortByPrice">حسب السعر</string>
+    <string name="SortByYear">حسب عام الانتاج</string>
+    <string name="FilterByModel">حسب الموديل</string>
+    <string name="Choose">أختر</string>
+    <string name="ShowAll">عرض الكل</string>
+    <string name="Loading....">جارى التحميل....</string>
+    <string name="FromHighToLow">من الأعلى الى الأقل</string>
+    <string name="FromLowToHigh">من الأقل الى الأعلى</string>
+    <string name="Descending">تنازلي</string>
+    <string name="Ascending">تصاعدى</string>
+    <string name="FromOldestToNewest">من الأقدم للأحدث</string>
+    <string name="FromNewestToOldest">من الأحدث للأقدم</string>
+
+
+</resources>
